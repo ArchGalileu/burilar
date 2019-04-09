@@ -4,7 +4,7 @@ id: 2
 title: Programa
 layout: page
 #categories: topics
-excerpt: Obras primas para ensemble de cordas e a integral dos Quartetos de cordas de Ludwig van Beethoven
+excerpt: Obras primas para Quarteto de cordas de Ludwig van Beethoven e Schubert
 permalink: programa
 background-image: beethoven.jpg
 image: beethoven.jpg
