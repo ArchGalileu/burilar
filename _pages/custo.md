@@ -6,8 +6,8 @@ layout: page
 #categories: topics
 excerpt: o que é necessário para acontecer
 permalink: honorarios
-background-image: paredes-auditorio.jpg
-image: paredes-auditorio.jpg
+background-image: cmp.jpg
+image: cmp.jpg
 ---
 #### Valores para concretizar
 

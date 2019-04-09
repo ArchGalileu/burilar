@@ -6,8 +6,8 @@ layout: page
 #categories: topics
 excerpt: 10 de Novembro 2019, pelas 16h, em Museu a designar
 permalink: intro
-background-image: paredes-casadacultura.jpg
-image: paredes-casadacultura.jpg
+background-image: burilar_img.png
+image: burilar_img.png
 pdf: true
 ---
 
