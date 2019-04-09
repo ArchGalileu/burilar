@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://cm-paredes.gasparsantos.eu/sitemap.xml
+Sitemap: http://burilar.gasparsantos.eu/sitemap.xml
