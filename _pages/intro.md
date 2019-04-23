@@ -27,4 +27,3 @@ Gaspar Santos e Radu Ungureanu, pelo Quarteto Douro e Camerata NovNorte
   
 Seguir para o [Programa](/programa)
 
-{{ page.pdf_url }}

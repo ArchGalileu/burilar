@@ -23,6 +23,6 @@ Entidade jurídica:
 NIF: 509 626 718  
   
   
-Finalmente [Contatar-nos](/contato)
+Finalmente [Entrar em contato](/contato)
 
 
